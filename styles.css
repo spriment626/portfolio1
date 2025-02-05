@@ -1,0 +1,30 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.card-custom {
+    background-color: #f8f9fa;
+    transition: transform 0.2s;
+}
+
+.card-custom:hover {
+    transform: translateY(-10px);
+}
+
+.card-custom-image img {
+    width: 100%;
+    height: auto;
+}
+
+.link-custom {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.link-custom:hover {
+    text-decoration: underline;
+}
+
+footer {
+    background-color: #343a40;
+}
