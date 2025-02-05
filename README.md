@@ -2,7 +2,7 @@
 Beautiful HTML,CSS and Bootstrap Portfolio
 
 # Demo
-- https://aniltmg463.github.io/portfolio/
+- https://aniltmg.netlify.app
 
 # Features
 - Fully Responsive
